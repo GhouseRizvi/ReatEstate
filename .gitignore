@@ -5,7 +5,6 @@ migrations
 env
 .idea
 __pycache__
-settings.py
 media/
 recent.log
 venv
